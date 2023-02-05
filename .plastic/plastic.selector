@@ -1,0 +1,4 @@
+repository "GGJ23@Ninja_Pudu_Party@cloud"
+  path "/"
+    br "/main"
+    co "/main"
